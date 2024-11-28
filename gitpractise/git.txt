@@ -2,3 +2,6 @@ Hey!
 This file is created to practice Git and GitHub commands.
 It includes examples of staging, committing, pushing, and pulling changes.
 By working on this, I aim to strengthen my version control skills and understand collaborative workflows.
+
+now i'am learning to make changes and push the fill to GitHub
+
