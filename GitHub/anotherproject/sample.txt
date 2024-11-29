@@ -2,6 +2,3 @@ Hey! This file is created to practice Git and GitHub commands. It includes examp
 added few more changes `
   now trying again 
 
-676876989 
-9899898
-plz yaar hoja
